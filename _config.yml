@@ -8,7 +8,7 @@ description: "technical and personal blogs related to Haider Ali's work and life
 author: "Haider Ali"
 
 url: "http://Haider8.github.io"
-baseurl: ""
+# baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "I'm a second year electronics undergraduate student at ZHCET-AMU.
